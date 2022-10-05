@@ -1,7 +1,5 @@
 # Unix C Primer Exercises
 
-## Exercise 0 - Exit Code
-
 ## Exercise 1 - Macro expansion
 ```
 gcc -E macro.c
